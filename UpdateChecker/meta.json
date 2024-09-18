@@ -2,9 +2,23 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 		{
-        	"id": "2.8",
-        	"releasedAt": 1726679886859,
-    	}
+  	{
+    	"id": "2.75",
+    	"releasedAt": 1725587640000,
+    	"promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1mZlNHjpGOnUudSuF9zvis9g0jEn-UAKe/view?usp=sharing"
+            }
+        }
+    },
+ 	{
+    	"id": "2.8",
+    	"releasedAt": 1726679886859,
+    	"promotions": {
+            "downloads": {
+                "generic": "https://drive.google.com/file/d/1mZlNHjpGOnUudSuF9zvis9g0jEn-UAKe/view?usp=sharing"
+            }
+        }
+    }
   ]
 }
