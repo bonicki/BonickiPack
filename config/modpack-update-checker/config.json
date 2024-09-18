@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 9,
+  "currentVersion": "2.8",
+  "modpackName": "BonickiPack",
+  "modpackAuthor": "Bonicki",
+  "modpackReleaseType": "stable",
+  "updateCheckerId": "https://github.com/bonicki/BonickiPack/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

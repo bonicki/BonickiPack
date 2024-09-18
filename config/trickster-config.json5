@@ -1,0 +1,8 @@
+{
+	"dragDrawing": false,
+	"topHatInterceptScrolling": false,
+	"barsHorizontal": false,
+	"revealToHotbar": true,
+	"maxExecutionsPerSpellPerTick": 64,
+	"allowSwapBedrock": true
+}

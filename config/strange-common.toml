@@ -1,0 +1,40 @@
+[Runestones]
+	#Runestones are blocks that teleport players to interesting structures and biomes.
+	#Each runestone will show what item is needed as a sacrifice. Drop the item near the runestone to activate it.
+	#Once the runestone is activated, throw an enderpearl at it to teleport.
+	Enabled = true
+	#If true, the player's view will distort while teleporting as if travelling via a nether portal.
+	"Dizziness effect" = true
+	#Duration (in seconds) of protection given to the player while they teleport via a runestone.
+	"Protection duration" = 3
+	#If true, activated runestones always show their destination.
+	#If false, a player must travel through a runestone to unlock its destination.
+	"Show destination when activated" = false
+
+[StoneCircles]
+	#Adds small pillars of stone in all three dimensions.
+	#Runestones can often be found on the top of the stone pillars.
+	Enabled = true
+	#Chance (out of 1.0) of a runestone linking to another stone circle.
+	#This chance is calculated only if the stone circle provider is used for the runestone block position.
+	"Stone circle runestone chance" = 0.3
+
+[TravelJournals]
+	#Travel journals are craftable items to store photos and descriptions of interesting places in the world.
+	#Each journal contains bookmarked locations. Locations can be saved to pages and added to other journals.
+	#Press the bookmark key (defaults to B) with a journal in your inventory to add a new bookmark.
+	Enabled = true
+	#Maximum number of bookmarks that can be added to a single travel journal.
+	#Setting too high a number could impact network performance.
+	#
+	"Number of bookmarks per journal" = 50
+	#Width (in pixels) that photos will be scaled down to before being uploaded to the server.
+	#This affects the storage size of the world data and network packet size when a client wants
+	#to download a copy of the photo. Smaller sizes optimize space and speed but reduce quality.
+	#The scaled width should be double the scaled height.
+	"Scaled photo width" = 192
+	#Height (in pixels) that photos will be scaled down to before being uploaded to the server.
+	#This affects the storage size of the world data and network packet size when a client wants
+	#to download a copy of the photo. Smaller sizes optimize space and speed but reduce quality.
+	#The scaled height should be half the scaled width.
+	"Scaled photo height" = 96

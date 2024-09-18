@@ -1,0 +1,45 @@
+{
+  "bookmarks": {
+    "2f6e4c16-73a4-4caa-9843-472174ff78e3": {
+      "trickster:tome_of_tomfoolery": []
+    }
+  },
+  "opened_books": {
+    "05d186fd-635f-4d55-af44-1bfc4a8efc94": [
+      "trickster:tome_of_tomfoolery"
+    ],
+    "2f6e4c16-73a4-4caa-9843-472174ff78e3": [
+      "trickster:tome_of_tomfoolery"
+    ],
+    "d725b2bf-01ce-4dec-878a-61c6aa6ab344": [
+      "things:almanac"
+    ]
+  },
+  "viewed_entries": {
+    "05d186fd-635f-4d55-af44-1bfc4a8efc94": {
+      "trickster:tome_of_tomfoolery": [
+        "trickster:arithmetic",
+        "trickster:editing"
+      ]
+    },
+    "2f6e4c16-73a4-4caa-9843-472174ff78e3": {
+      "trickster:tome_of_tomfoolery": [
+        "trickster:ploys/entity",
+        "trickster:distortions/boolean",
+        "trickster:multi_tick",
+        "trickster:distortions/tree",
+        "trickster:editing",
+        "trickster:distortions/misc",
+        "trickster:intro",
+        "trickster:distortions/list",
+        "trickster:distortions/vector",
+        "trickster:mana"
+      ]
+    },
+    "d725b2bf-01ce-4dec-878a-61c6aa6ab344": {
+      "things:almanac": [
+        "things:diamond_pressure_plate"
+      ]
+    }
+  }
+}

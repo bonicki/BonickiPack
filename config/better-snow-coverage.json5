@@ -1,0 +1,14 @@
+{
+	excluded_blocks: [
+		"light_weighted_pressure_plate",
+		"heavy_weighted_pressure_plate",
+		"polished_blackstone_pressure_plate",
+		"stone_pressure_plate"
+	],
+	excluded_tags: [
+		"buttons",
+		"wooden_pressure_plates",
+		"rails",
+		"leaves"
+	]
+}

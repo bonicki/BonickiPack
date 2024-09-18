@@ -1,0 +1,22 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "skin_name": "2020960467",
+        "model": "classic",
+        "type": "skinshuffle:config"
+      },
+      "name": "bonicki"
+    },
+    {
+      "skin": {
+        "skin_name": "1979473166",
+        "model": "default",
+        "type": "skinshuffle:config"
+      },
+      "name": "Unnamed Preset"
+    }
+  ]
+}

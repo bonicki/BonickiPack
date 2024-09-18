@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "things",
+  "version": "0.4.0+1.21",
+  "name": "Things",
+  "description": "Trinkets and other utilities",
+  "authors": [
+    "glisco"
+  ],
+  "contact": {
+    "issues": "https://github.com/wisp-forest/things/issues",
+    "sources": "https://github.com/wisp-forest/things",
+    "homepage": "https://modrinth.com/mod/things"
+  },
+  "contributors": [
+    "Pois1x",
+    "Noaaan",
+    "naschhorn",
+    "esiotrot",
+    "BasiqueEvangelist"
+  ],
+  "icon": "assets/things/icon.png",
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.glisco.things.client.ThingsClient"
+    ],
+    "main": [
+      "com.glisco.things.Things"
+    ],
+    "rei_client": [
+      "com.glisco.things.compat.rei.ThingsPlugin"
+    ],
+    "cardinal-components-entity": [
+      "com.glisco.things.Things"
+    ]
+  },
+  "mixins": [
+    "things.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "*",
+    "fabric": "*",
+    "minecraft": "\u003e\u003d1.20.3",
+    "accessories": "*",
+    "owo": "\u003e\u003d0.11.3",
+    "lavender": "\u003e\u003d0.1.0-pre.15"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/xrwHKktV2d"
+      }
+    },
+    "cardinal-components": [
+      "things:sock_data"
+    ]
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/owo-sentinel-0.12.10+1.21.jar"
+    }
+  ]
+}

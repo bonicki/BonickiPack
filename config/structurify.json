@@ -1,0 +1,100 @@
+{
+  "general": {
+    "disabled_all_structures": false,
+    "enable_global_spacing_and_separation_modifier": true,
+    "global_spacing_and_separation_modifier": 2.0
+  },
+  "structures": [],
+  "structure_sets": [
+    {
+      "name": "adorabuild_structures:end_structures",
+      "spacing": 36,
+      "separation": 5
+    },
+    {
+      "name": "adorabuild_structures:floating_structures",
+      "spacing": 80,
+      "separation": 18
+    },
+    {
+      "name": "adorabuild_structures:overworld_structures",
+      "spacing": 26,
+      "separation": 4
+    },
+    {
+      "name": "adorabuild_structures:rare_overworld_structures",
+      "spacing": 38,
+      "separation": 6
+    },
+    {
+      "name": "bosses_of_mass_destruction:gauntlet_arena",
+      "spacing": 27,
+      "separation": 16
+    },
+    {
+      "name": "bosses_of_mass_destruction:lich_tower",
+      "spacing": 70,
+      "separation": 45
+    },
+    {
+      "name": "bosses_of_mass_destruction:obsidilith_arena",
+      "spacing": 55,
+      "separation": 28
+    },
+    {
+      "name": "bosses_of_mass_destruction:void_blossom",
+      "spacing": 50,
+      "separation": 24
+    },
+    {
+      "name": "deeperdarker:ancient_temples",
+      "spacing": 24,
+      "separation": 5
+    },
+    {
+      "name": "desolation:ash_tinker_bases",
+      "spacing": 22,
+      "separation": 5
+    },
+    {
+      "name": "formationsoverworld:rafts",
+      "spacing": 19,
+      "separation": 15
+    },
+    {
+      "name": "friendsandfoes:beekeeper_hut",
+      "spacing": 20,
+      "separation": 7
+    },
+    {
+      "name": "friendsandfoes:iceologer_cabin",
+      "spacing": 28,
+      "separation": 10
+    },
+    {
+      "name": "friendsandfoes:illusioner_shack",
+      "spacing": 30,
+      "separation": 10
+    },
+    {
+      "name": "friendsandfoes:illusioner_training_grounds",
+      "spacing": 34,
+      "separation": 10
+    },
+    {
+      "name": "hopo:underwater_city",
+      "spacing": 39,
+      "separation": 38
+    },
+    {
+      "name": "nova_structures:illager_hideout",
+      "spacing": 97,
+      "separation": 12
+    },
+    {
+      "name": "nova_structures:jungle_ruins",
+      "spacing": 68,
+      "separation": 12
+    }
+  ]
+}

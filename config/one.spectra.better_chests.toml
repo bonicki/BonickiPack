@@ -1,0 +1,6 @@
+showSortButton = true
+showConfigurationButton = true
+
+[sorting]
+spread = false
+sortOnClose = false

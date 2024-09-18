@@ -1,0 +1,10 @@
+{
+	"SHOW_UPDATER_SCREEN_BUTTON": true,
+	"DISABLE_UPDATER": false,
+	"updateNested": {
+		"AUTO_UPDATE": true,
+		"DOWNLOAD_OPTIONAL_DEPENDENCIES": true,
+		"UPDATE_TO_BETA": true,
+		"UPDATE_TO_ALPHA": false
+	}
+}
