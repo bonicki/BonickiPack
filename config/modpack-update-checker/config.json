@@ -4,7 +4,7 @@
   "modpackName": "BonickiPack",
   "modpackAuthor": "Bonicki",
   "modpackReleaseType": "stable",
-  "updateCheckerId": "https://github.com/bonicki/BonickiPack/",
+  "updateCheckerId": "https://raw.githubusercontent.com/bonicki/BonickiPack/main/UpdateChecker/",
   "advanced": {
     "bccEnabled": false,
     "expandButton": false,
